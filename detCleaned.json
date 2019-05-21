@@ -1,0 +1,792 @@
+{
+    "54": {
+        "dl-co-mm": 1.19,
+        "name": "GD79B",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 1040000,
+            "bottom-thickness-nm": 1040000,
+            "top-thickness-nm": 1040000
+        },
+        "id": 54,
+        "height-mm": 29.04,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 38.42,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "65": {
+        "dl-co-mm": 1.39,
+        "name": "GD00B",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 1040000,
+            "bottom-thickness-nm": 1040000,
+            "top-thickness-nm": 1040000
+        },
+        "id": 65,
+        "height-mm": 29.46,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 36.98,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "51": {
+        "dl-co-mm": 1.09,
+        "name": "GD61C",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 920000,
+            "bottom-thickness-nm": 920000,
+            "top-thickness-nm": 920000
+        },
+        "id": 51,
+        "height-mm": 26.45,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 37.28,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "53": {
+        "dl-co-mm": 1.35,
+        "name": "GD76C",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 1140000,
+            "bottom-thickness-nm": 1140000,
+            "top-thickness-nm": 1140000
+        },
+        "id": 53,
+        "height-mm": 33.18,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 37.92,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "42": {
+        "dl-co-mm": 1.13,
+        "name": "GD32A",
+        "cone": {
+            "radius-deg": 30,
+            "height-mm": 5.5,
+            "position": "top"
+        },
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 910000,
+            "bottom-thickness-nm": 910000,
+            "top-thickness-nm": 910000
+        },
+        "id": 42,
+        "height-mm": 24.9,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 33.13,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "50": {
+        "dl-co-mm": 1.34,
+        "name": "GD61B",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 1000000,
+            "bottom-thickness-nm": 1000000,
+            "top-thickness-nm": 1000000
+        },
+        "id": 50,
+        "height-mm": 30.21,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 37.98,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "52": {
+        "dl-co-mm": 1.44,
+        "name": "GD76B",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 1140000,
+            "bottom-thickness-nm": 1140000,
+            "top-thickness-nm": 1140000
+        },
+        "id": 52,
+        "height-mm": 26.29,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 29.14,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "63": {
+        "dl-co-mm": 1.28,
+        "name": "GD91D",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 990000,
+            "bottom-thickness-nm": 990000,
+            "top-thickness-nm": 990000
+        },
+        "id": 63,
+        "height-mm": 31.88,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 35.65,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "58": {
+        "dl-co-mm": 1.21,
+        "name": "GD89C",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 990000,
+            "bottom-thickness-nm": 990000,
+            "top-thickness-nm": 990000
+        },
+        "id": 58,
+        "height-mm": 24.75,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 37.35,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "49": {
+        "dl-co-mm": 1.41,
+        "name": "GD61A",
+        "cone": {
+            "radius-deg": 31.75,
+            "height-mm": 16.13,
+            "position": "top"
+        },
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 1010000,
+            "bottom-thickness-nm": 1010000,
+            "top-thickness-nm": 1010000
+        },
+        "id": 49,
+        "height-mm": 33.57,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 36.74,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "59": {
+        "dl-co-mm": 1.40,
+        "name": "GD89D",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 1020000,
+            "bottom-thickness-nm": 1020000,
+            "top-thickness-nm": 1020000
+        },
+        "id": 59,
+        "height-mm": 22.89,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 36.72,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "62": {
+        "dl-co-mm": 1.31,
+        "name": "GD91C",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 960000,
+            "bottom-thickness-nm": 960000,
+            "top-thickness-nm": 960000
+        },
+        "id": 62,
+        "height-mm": 29.79,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 34.95,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "43": {
+        "dl-co-mm": 1.27,
+        "name": "GD32B",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 1050000,
+            "bottom-thickness-nm": 1050000,
+            "top-thickness-nm": 1050000
+        },
+        "id": 43,
+        "height-mm": 32.16,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 35.95,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "44": {
+        "dl-co-mm": 1.04,
+        "name": "GD32C",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 960000,
+            "bottom-thickness-nm": 960000,
+            "top-thickness-nm": 960000
+        },
+        "id": 44,
+        "height-mm": 33.15,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 35.99,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "55": {
+        "dl-co-mm": 1.47,
+        "name": "GD79C",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 1100000,
+            "bottom-thickness-nm": 1100000,
+            "top-thickness-nm": 1100000
+        },
+        "id": 55,
+        "height-mm": 30.22,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 39.48,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "71": {
+        "dl-co-mm": 1.45,
+        "name": "GD02D",
+        "cone": {
+            "radius-deg": 34.25,
+            "height-mm": 6.83,
+            "position": "top"
+        },
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 1450000,
+            "bottom-thickness-nm": 1450000,
+            "top-thickness-nm": 1450000
+        },
+        "id": 71,
+        "height-mm": 27.91,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 37.3,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "47": {
+        "dl-co-mm": 0.97,
+        "name": "GD35B",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 780000,
+            "bottom-thickness-nm": 780000,
+            "top-thickness-nm": 780000
+        },
+        "id": 47,
+        "height-mm": 32.1,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 38.16,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "70": {
+        "dl-co-mm": 1.19,
+        "name": "GD02C",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 1030000,
+            "bottom-thickness-nm": 1030000,
+            "top-thickness-nm": 1030000
+        },
+        "id": 70,
+        "height-mm": 32.59,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 37.44,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "57": {
+        "dl-co-mm": 1.31,
+        "name": "GD89B",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 1130000,
+            "bottom-thickness-nm": 1130000,
+            "top-thickness-nm": 1130000
+        },
+        "id": 57,
+        "height-mm": 24.85,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 38.02,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "64": {
+        "dl-co-mm": 1.16,
+        "name": "GD00A",
+        "cone": {
+            "radius-deg": 23.25,
+            "height-mm": 14.35,
+            "position": "top"
+        },
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 910000,
+            "bottom-thickness-nm": 910000,
+            "top-thickness-nm": 910000
+        },
+        "id": 64,
+        "height-mm": 26.41,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 35.16,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "69": {
+        "dl-co-mm": 1.26,
+        "name": "GD02B",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 970000,
+            "bottom-thickness-nm": 970000,
+            "top-thickness-nm": 970000
+        },
+        "id": 69,
+        "height-mm": 28.66,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 35.51,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "60": {
+        "dl-co-mm": 1.19,
+        "name": "GD91A",
+        "cone": {
+            "radius-deg": 28,
+            "height-mm": 11.5,
+            "position": "top"
+        },
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 990000,
+            "bottom-thickness-nm": 990000,
+            "top-thickness-nm": 990000
+        },
+        "id": 60,
+        "height-mm": 31.18,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 35.27,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "61": {
+        "dl-co-mm": 1.16,
+        "name": "GD91B",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 960000,
+            "bottom-thickness-nm": 960000,
+            "top-thickness-nm": 960000
+        },
+        "id": 61,
+        "height-mm": 30.26,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 35.29,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "67": {
+        "dl-co-mm": 1.25,
+        "name": "GD00D",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 1020000,
+            "bottom-thickness-nm": 1020000,
+            "top-thickness-nm": 1020000
+        },
+        "id": 67,
+        "height-mm": 32.28,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 38.2,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "46": {
+        "dl-co-mm": 1.02,
+        "name": "GD35A",
+        "cone": {
+            "radius-deg": 29.12,
+            "height-mm": 12.75,
+            "position": "top"
+        },
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 950000,
+            "bottom-thickness-nm": 950000,
+            "top-thickness-nm": 950000
+        },
+        "id": 46,
+        "height-mm": 35.34,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 36.77,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "45": {
+        "dl-co-mm": 1.01,
+        "name": "GD32D",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 770000,
+            "bottom-thickness-nm": 770000,
+            "top-thickness-nm": 770000
+        },
+        "id": 45,
+        "height-mm": 32.12,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 36.15,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "68": {
+        "dl-co-mm": 1.29,
+        "name": "GD02A",
+        "cone": {
+            "radius-deg": 28.75,
+            "height-mm": 12.36,
+            "position": "top"
+        },
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 860000,
+            "bottom-thickness-nm": 860000,
+            "top-thickness-nm": 860000
+        },
+        "id": 68,
+        "height-mm": 27.55,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 35.23,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "56": {
+        "dl-co-mm": 1.17,
+        "name": "GD89A",
+        "cone": {
+            "radius-deg": 25.25,
+            "height-mm": 12,
+            "position": "top"
+        },
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 990000,
+            "bottom-thickness-nm": 990000,
+            "top-thickness-nm": 990000
+        },
+        "id": 56,
+        "height-mm": 28.34,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 34.31,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "66": {
+        "dl-co-mm": 1.34,
+        "name": "GD00C",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 1010000,
+            "bottom-thickness-nm": 1010000,
+            "top-thickness-nm": 1010000
+        },
+        "id": 66,
+        "height-mm": 33.64,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 37.76,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    },
+    "48": {
+        "dl-co-mm": 0.97,
+        "name": "GD35C",
+        "dead-layer": {
+            "material": "EnrichedGe",
+            "inner-thickness-nm": 590,
+            "outer-thickness-nm": 790000,
+            "bottom-thickness-nm": 790000,
+            "top-thickness-nm": 790000
+        },
+        "id": 48,
+        "height-mm": 26.32,
+        "passivation-layer": {
+            "thickness-nm": 1000,
+            "material": "EnrichedGe"
+        },
+        "bulk-material": "EnrichedGe",
+        "radius-mm": 37.42,
+        "groove": {
+            "inner-radius-mm": 7.5,
+            "depth-mm": 2,
+            "position": "bottom",
+            "outer-radius-mm": 10.5
+        }
+    }
+}
